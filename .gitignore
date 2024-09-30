@@ -36,3 +36,10 @@ Week7/.vsconfig
 Week7/Assembly-CSharp.csproj
 Week7/Week7.sln
 /Week7/UserSettings
+Week8/.vsconfig
+Week8/Assembly-CSharp-Editor.csproj
+Week8/Assembly-CSharp.csproj
+/Week8/Library
+/Week8/Logs
+/Week8/Temp
+/Week8/UserSettings
